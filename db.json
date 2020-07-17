@@ -26,8 +26,8 @@
     }
   ],
   "technologies": {
-    "Base": ['JavaScript ES6+', 'HTML5', 'CSS3'],
-    "Front-End": ['ReactJS', 'Redux', 'React Components'],
-    "Tools": ['npm', 'Webpack', 'Jest', 'Babel', 'Git (GitHub, Bitbucket, Gitlab)', 'Jira']
+    "Base": ["JavaScript ES6+", "HTML5", "CSS3"],
+    "Front-End": ["ReactJS", "Redux", "React Components"],
+    "Tools": ["npm", "Webpack", "Jest", "Babel", "Git (GitHub, Bitbucket, Gitlab)", "Jira"]
   }
 }
