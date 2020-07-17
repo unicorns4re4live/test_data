@@ -24,5 +24,10 @@
       "description": "This is project number four",
       "imgSrc": "https://images.s3.gup.ua/3cd1e963-7d17-4485-bd8b-481f11ca8e37"
     }
-  ]
+  ],
+  "technologies": {
+    "Base": ['JavaScript ES6+', 'HTML5', 'CSS3'],
+    "Front-End": ['ReactJS', 'Redux', 'React Components'],
+    "Tools": ['npm', 'Webpack', 'Jest', 'Babel', 'Git (GitHub, Bitbucket, Gitlab)', 'Jira']
+  }
 }
